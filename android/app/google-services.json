@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259816155683",
+    "project_id": "ads-tutorial-92a9e",
+    "storage_bucket": "ads-tutorial-92a9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259816155683:android:6a862c6d1fcd21f0b1df96",
+        "android_client_info": {
+          "package_name": "com.seikilos.googleAdsTutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRQPsNwZMpaYaR3Rup-nIZL9BcF1KOPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
